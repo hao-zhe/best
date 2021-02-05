@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca35add8-8dd7-49ad-bc61-edd4ef41a62b" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/static_pages/help.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/static_pages/help.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,11 +153,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612489721694</updated>
-      <workItem from="1612489726103" duration="629000" />
+      <workItem from="1612489726103" duration="1514000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="392" key="NewPhpFileDialog" timestamp="1612490399108">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="550" y="392" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1612490399108" />
   </component>
 </project>
